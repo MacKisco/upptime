@@ -1,26 +1,26 @@
 [
   {
-    "name": "l-eire-de-rien",
-    "url": "https://leirederien.fr",
-    "slug": "l-eire-de-rien",
-    "status": "up",
-    "uptime": "100.00%",
-    "time": 1420
-  },
-  {
-    "name": "le-petit-atelier-luthi",
+    "name": "Le Petit Atelier Luthi",
     "url": "https://lepetitatelierluthi.fr",
     "slug": "le-petit-atelier-luthi",
     "status": "up",
     "uptime": "100.00%",
-    "time": 2466
+    "time": 2631
   },
   {
-    "name": "aviva-stats",
+    "name": "L'Eire de rien",
+    "url": "https://leirederien.fr",
+    "slug": "l-eire-de-rien",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 1455
+  },
+  {
+    "name": "Aviva-stats",
     "url": "https://aviva-stats.netlify.app",
     "slug": "aviva-stats",
     "status": "up",
     "uptime": "100.00%",
-    "time": 333
+    "time": 306
   }
 ]
