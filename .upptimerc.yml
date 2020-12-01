@@ -23,8 +23,14 @@ status-website:
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: LPAL
+      href: https://www.lepetitatelierluthi.fr
+    - title: LEDR
+      href: https://leirederien.fr
+    - title: AS
+      href: https://aviva-stats.netlify.app
+#    - title: GitHub
+#      href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
