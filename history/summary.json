@@ -5,7 +5,7 @@
     "slug": "le-petit-atelier-luthi",
     "status": "up",
     "uptime": "100.00%",
-    "time": 2643
+    "time": 2568
   },
   {
     "name": "L'Eire de rien",
@@ -13,7 +13,7 @@
     "slug": "l-eire-de-rien",
     "status": "up",
     "uptime": "100.00%",
-    "time": 2002
+    "time": 1898
   },
   {
     "name": "Aviva-stats",
@@ -21,6 +21,6 @@
     "slug": "aviva-stats",
     "status": "up",
     "uptime": "100.00%",
-    "time": 249
+    "time": 211
   }
 ]
