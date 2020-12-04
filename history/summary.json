@@ -5,7 +5,15 @@
     "slug": "le-petit-atelier-luthi",
     "status": "up",
     "uptime": "100.00%",
-    "time": 2389
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 2348,
+    "timeDay": 2230,
+    "timeWeek": 2348,
+    "timeMonth": 2348,
+    "timeYear": 2348
   },
   {
     "name": "L'Eire de rien",
@@ -13,7 +21,15 @@
     "slug": "l-eire-de-rien",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1830
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1849,
+    "timeDay": 2051,
+    "timeWeek": 1849,
+    "timeMonth": 1849,
+    "timeYear": 1849
   },
   {
     "name": "Aviva-stats",
@@ -21,6 +37,14 @@
     "slug": "aviva-stats",
     "status": "up",
     "uptime": "100.00%",
-    "time": 199
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 176,
+    "timeDay": 97,
+    "timeWeek": 176,
+    "timeMonth": 176,
+    "timeYear": 176
   }
 ]
