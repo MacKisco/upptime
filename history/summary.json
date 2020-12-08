@@ -2,6 +2,7 @@
   {
     "name": "Le Petit Atelier Luthi",
     "url": "https://lepetitatelierluthi.fr",
+    "icon": "https://favicons.githubusercontent.com/lepetitatelierluthi.fr",
     "slug": "le-petit-atelier-luthi",
     "status": "up",
     "uptime": "100.00%",
@@ -9,15 +10,17 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2203,
-    "timeDay": 1645,
-    "timeWeek": 2203,
-    "timeMonth": 2203,
-    "timeYear": 2203
+    "time": 2169,
+    "timeDay": 1833,
+    "timeWeek": 1991,
+    "timeMonth": 2169,
+    "timeYear": 2169,
+    "dailyMinutesDown": {}
   },
   {
     "name": "L'Eire de rien",
     "url": "https://leirederien.fr",
+    "icon": "https://favicons.githubusercontent.com/leirederien.fr",
     "slug": "l-eire-de-rien",
     "status": "up",
     "uptime": "100.00%",
@@ -25,15 +28,17 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1719,
-    "timeDay": 1513,
-    "timeWeek": 1719,
-    "timeMonth": 1719,
-    "timeYear": 1719
+    "time": 1701,
+    "timeDay": 1530,
+    "timeWeek": 1589,
+    "timeMonth": 1701,
+    "timeYear": 1701,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Aviva-stats",
     "url": "https://aviva-stats.netlify.app",
+    "icon": "https://favicons.githubusercontent.com/aviva-stats.netlify.app",
     "slug": "aviva-stats",
     "status": "up",
     "uptime": "100.00%",
@@ -41,10 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 167,
-    "timeDay": 161,
-    "timeWeek": 167,
-    "timeMonth": 167,
-    "timeYear": 167
+    "time": 166,
+    "timeDay": 155,
+    "timeWeek": 135,
+    "timeMonth": 166,
+    "timeYear": 166,
+    "dailyMinutesDown": {}
   }
 ]
