@@ -22,19 +22,19 @@
     "url": "https://leirederien.fr",
     "icon": "https://favicons.githubusercontent.com/leirederien.fr",
     "slug": "l-eire-de-rien",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1995,
-    "timeDay": 2601,
-    "timeWeek": 2314,
-    "timeMonth": 1995,
-    "timeYear": 1995,
+    "status": "up",
+    "uptime": "99.86%",
+    "uptimeDay": "96.95%",
+    "uptimeWeek": "99.56%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.86%",
+    "time": 1963,
+    "timeDay": 1891,
+    "timeWeek": 2173,
+    "timeMonth": 1963,
+    "timeYear": 1963,
     "dailyMinutesDown": {
-      "2020-12-22": 0
+      "2020-12-22": 44
     }
   },
   {
