@@ -22,9 +22,9 @@
     "url": "https://leirederien.fr",
     "icon": "https://favicons.githubusercontent.com/leirederien.fr",
     "slug": "l-eire-de-rien",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 2314,
     "timeMonth": 1995,
     "timeYear": 1995,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2020-12-22": 0
+    }
   },
   {
     "name": "Aviva-stats",
