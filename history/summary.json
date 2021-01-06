@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1940,
-    "timeDay": 1557,
-    "timeWeek": 1658,
-    "timeMonth": 1838,
-    "timeYear": 1940,
+    "time": 1951,
+    "timeDay": 2382,
+    "timeWeek": 1783,
+    "timeMonth": 1860,
+    "timeYear": 1951,
     "dailyMinutesDown": {}
   },
   {
@@ -23,16 +23,16 @@
     "icon": "https://favicons.githubusercontent.com/leirederien.fr",
     "slug": "l-eire-de-rien",
     "status": "up",
-    "uptime": "99.91%",
+    "uptime": "99.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
-    "uptimeYear": "99.91%",
-    "time": 2350,
-    "timeDay": 1073,
-    "timeWeek": 4235,
-    "timeMonth": 2488,
-    "timeYear": 2350,
+    "uptimeYear": "99.92%",
+    "time": 2331,
+    "timeDay": 1576,
+    "timeWeek": 4291,
+    "timeMonth": 2497,
+    "timeYear": 2331,
     "dailyMinutesDown": {
       "2020-12-22": 44
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 175,
-    "timeDay": 90,
-    "timeWeek": 95,
-    "timeMonth": 177,
-    "timeYear": 175,
+    "time": 179,
+    "timeDay": 334,
+    "timeWeek": 114,
+    "timeMonth": 183,
+    "timeYear": 179,
     "dailyMinutesDown": {}
   }
 ]
