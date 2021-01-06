@@ -4,18 +4,20 @@
     "url": "https://lepetitatelierluthi.fr",
     "icon": "https://favicons.githubusercontent.com/lepetitatelierluthi.fr",
     "slug": "le-petit-atelier-luthi",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1951,
     "timeDay": 2382,
     "timeWeek": 1783,
-    "timeMonth": 1860,
+    "timeMonth": 1867,
     "timeYear": 1951,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-01-06": 0
+    }
   },
   {
     "name": "L'Eire de rien",
@@ -31,7 +33,7 @@
     "time": 2331,
     "timeDay": 1576,
     "timeWeek": 4291,
-    "timeMonth": 2497,
+    "timeMonth": 2529,
     "timeYear": 2331,
     "dailyMinutesDown": {
       "2020-12-22": 44
@@ -51,7 +53,7 @@
     "time": 179,
     "timeDay": 334,
     "timeWeek": 114,
-    "timeMonth": 183,
+    "timeMonth": 184,
     "timeYear": 179,
     "dailyMinutesDown": {}
   }
