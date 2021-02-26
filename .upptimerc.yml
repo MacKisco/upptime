@@ -8,6 +8,9 @@ sites:
     url: https://lepetitatelierluthi.fr
   - name: "L'Eire de rien"
     url: https://leirederien.fr
+  - name: "Tea Menu"
+    url: https://tea-menu.netlify.app
+    
   - name: "Aviva-stats"
     url: https://aviva-stats.netlify.app
 
@@ -27,6 +30,8 @@ status-website:
       href: https://www.lepetitatelierluthi.fr
     - title: LEDR
       href: https://leirederien.fr
+    - title: TM
+      href: https://tea-menu.netlify.app
     - title: AS
       href: https://aviva-stats.netlify.app
 #    - title: GitHub
