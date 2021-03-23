@@ -24,17 +24,17 @@
     "url": "https://leirederien.fr",
     "icon": "https://favicons.githubusercontent.com/leirederien.fr",
     "slug": "l-eire-de-rien",
-    "status": "down",
+    "status": "up",
     "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 1992,
+    "time": 1988,
     "timeDay": 1535,
-    "timeWeek": 2016,
-    "timeMonth": 1986,
-    "timeYear": 1992,
+    "timeWeek": 1956,
+    "timeMonth": 1971,
+    "timeYear": 1988,
     "dailyMinutesDown": {
       "2020-12-22": 44
     }
