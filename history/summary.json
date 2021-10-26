@@ -68,17 +68,19 @@
     "url": "https://aviva-stats.netlify.app",
     "icon": "https://favicons.githubusercontent.com/aviva-stats.netlify.app",
     "slug": "aviva-stats",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 223,
-    "timeDay": 766,
-    "timeWeek": 545,
-    "timeMonth": 269,
+    "timeDay": 437,
+    "timeWeek": 490,
+    "timeMonth": 264,
     "timeYear": 223,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-10-26": 0
+    }
   }
 ]
