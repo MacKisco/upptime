@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1788,
-    "timeDay": 1725,
-    "timeWeek": 1874,
-    "timeMonth": 1775,
-    "timeYear": 1788,
+    "time": 1790,
+    "timeDay": 2404,
+    "timeWeek": 1925,
+    "timeMonth": 1806,
+    "timeYear": 1790,
     "dailyMinutesDown": {
       "2021-01-06": 18
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "95.04%",
     "uptimeYear": "99.50%",
-    "time": 2050,
-    "timeDay": 1495,
-    "timeWeek": 1576,
-    "timeMonth": 1569,
-    "timeYear": 2050,
+    "time": 2049,
+    "timeDay": 1576,
+    "timeWeek": 1536,
+    "timeMonth": 1581,
+    "timeYear": 2049,
     "dailyMinutesDown": {
       "2021-10-13": 75,
       "2021-10-01": 388,
@@ -57,9 +57,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 192,
-    "timeDay": 204,
-    "timeWeek": 183,
-    "timeMonth": 184,
+    "timeDay": 158,
+    "timeWeek": 163,
+    "timeMonth": 186,
     "timeYear": 192,
     "dailyMinutesDown": {}
   },
@@ -70,17 +70,15 @@
     "slug": "aviva-stats",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.24%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 223,
-    "timeDay": 371,
-    "timeWeek": 462,
-    "timeMonth": 263,
+    "timeDay": 172,
+    "timeWeek": 403,
+    "timeMonth": 267,
     "timeYear": 223,
-    "dailyMinutesDown": {
-      "2021-10-26": 11
-    }
+    "dailyMinutesDown": {}
   }
 ]
