@@ -51,9 +51,9 @@
     "url": "https://tea-menu.netlify.app",
     "icon": "https://favicons.githubusercontent.com/tea-menu.netlify.app",
     "slug": "tea-menu",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -62,16 +62,18 @@
     "timeWeek": 245,
     "timeMonth": 168,
     "timeYear": 190,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-20": 0
+    }
   },
   {
     "name": "Aviva-stats",
     "url": "https://aviva-stats.netlify.app",
     "icon": "https://favicons.githubusercontent.com/aviva-stats.netlify.app",
     "slug": "aviva-stats",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -80,6 +82,8 @@
     "timeWeek": 334,
     "timeMonth": 199,
     "timeYear": 221,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-20": 0
+    }
   }
 ]
