@@ -4,10 +4,10 @@
     "url": "https://lepetitatelierluthi.fr",
     "icon": "https://icons.duckduckgo.com/ip3/lepetitatelierluthi.fr.ico",
     "slug": "le-petit-atelier-luthi",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "95.72%",
-    "uptimeWeek": "99.39%",
+    "uptimeDay": "95.68%",
+    "uptimeWeek": "99.38%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.99%",
     "time": 1943,
@@ -16,7 +16,7 @@
     "timeMonth": 2481,
     "timeYear": 1983,
     "dailyMinutesDown": {
-      "2023-01-25": 62
+      "2023-01-25": 63
     }
   },
   {
@@ -24,11 +24,11 @@
     "url": "https://leirederien.fr",
     "icon": "https://icons.duckduckgo.com/ip3/leirederien.fr.ico",
     "slug": "l-eire-de-rien",
-    "status": "up",
+    "status": "down",
     "uptime": "99.74%",
-    "uptimeDay": "99.05%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
     "time": 1741,
     "timeDay": 1502,
@@ -36,7 +36,7 @@
     "timeMonth": 1755,
     "timeYear": 1810,
     "dailyMinutesDown": {
-      "2023-01-25": 14,
+      "2023-01-25": 0,
       "2022-09-20": 22,
       "2022-08-19": 44,
       "2022-05-27": 16,
