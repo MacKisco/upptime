@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 1896,
-    "timeDay": 2389,
-    "timeWeek": 1894,
-    "timeMonth": 1611,
+    "time": 1894,
+    "timeDay": 1330,
+    "timeWeek": 1849,
+    "timeMonth": 1588,
     "timeYear": 1873,
     "dailyMinutesDown": {
       "2023-08-19": 30,
@@ -34,10 +34,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1838,
-    "timeDay": 1378,
-    "timeWeek": 1832,
-    "timeMonth": 1939,
-    "timeYear": 1925,
+    "timeDay": 1185,
+    "timeWeek": 1762,
+    "timeMonth": 1886,
+    "timeYear": 1921,
     "dailyMinutesDown": {
       "2023-02-26": 21,
       "2023-02-23": 22
@@ -55,13 +55,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 219,
-    "timeDay": 78,
-    "timeWeek": 308,
-    "timeMonth": 147,
+    "timeDay": 52,
+    "timeWeek": 304,
+    "timeMonth": 140,
     "timeYear": 194,
-    "dailyMinutesDown": {
-      "2022-11-23": 27
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Aviva-stats",
@@ -75,8 +73,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 237,
-    "timeDay": 83,
-    "timeWeek": 132,
+    "timeDay": 35,
+    "timeWeek": 126,
     "timeMonth": 91,
     "timeYear": 204,
     "dailyMinutesDown": {
