@@ -25,18 +25,19 @@
     "url": "https://leirederien.fr",
     "icon": "https://icons.duckduckgo.com/ip3/leirederien.fr.ico",
     "slug": "l-eire-de-rien",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
-    "time": 1882,
+    "time": 1881,
     "timeDay": 1466,
     "timeWeek": 1978,
     "timeMonth": 1727,
     "timeYear": 1910,
     "dailyMinutesDown": {
+      "2024-02-29": 0,
       "2024-02-15": 21,
       "2024-01-10": 23
     }
