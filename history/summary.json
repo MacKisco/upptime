@@ -25,19 +25,19 @@
     "url": "https://leirederien.fr",
     "icon": "https://icons.duckduckgo.com/ip3/leirederien.fr.ico",
     "slug": "l-eire-de-rien",
-    "status": "down",
-    "uptime": "99.83%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.95%",
+    "status": "up",
+    "uptime": "99.82%",
+    "uptimeDay": "99.36%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
-    "time": 1899,
-    "timeDay": 2621,
-    "timeWeek": 2386,
-    "timeMonth": 1931,
+    "time": 1898,
+    "timeDay": 2334,
+    "timeWeek": 2348,
+    "timeMonth": 1934,
     "timeYear": 1922,
     "dailyMinutesDown": {
-      "2024-03-07": 0,
+      "2024-03-07": 9,
       "2024-02-15": 21,
       "2024-01-10": 23
     }
@@ -49,18 +49,16 @@
     "slug": "tea-menu",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.16%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 183,
     "timeDay": 26,
     "timeWeek": 60,
     "timeMonth": 145,
     "timeYear": 134,
-    "dailyMinutesDown": {
-      "2024-03-07": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Aviva-stats",
