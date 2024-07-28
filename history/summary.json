@@ -52,18 +52,20 @@
     "url": "https://tea-menu.netlify.app",
     "icon": "https://icons.duckduckgo.com/ip3/tea-menu.netlify.app.ico",
     "slug": "tea-menu",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 127,
-    "timeDay": 55,
-    "timeWeek": 138,
-    "timeMonth": 161,
+    "time": 126,
+    "timeDay": 82,
+    "timeWeek": 134,
+    "timeMonth": 160,
     "timeYear": 120,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-28": 0
+    }
   },
   {
     "name": "Aviva-stats",
