@@ -1,7 +1,7 @@
 url: https://aviva-stats.netlify.app
-status: up
-code: 200
-responseTime: 87
-lastUpdated: 2024-08-02T23:12:15.782Z
+status: down
+code: 500
+responseTime: 2053
+lastUpdated: 2024-08-03T10:28:21.995Z
 startTime: 2020-11-30T10:51:14.000Z
 generator: Upptime <https://github.com/upptime/upptime>
