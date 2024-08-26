@@ -4,7 +4,7 @@
     "url": "https://lepetitatelierluthi.fr",
     "icon": "https://icons.duckduckgo.com/ip3/lepetitatelierluthi.fr.ico",
     "slug": "le-petit-atelier-luthi",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 1621,
     "timeYear": 1629,
     "dailyMinutesDown": {
+      "2024-08-26": 0,
       "2024-04-29": 0,
       "2024-04-28": 21,
       "2024-04-15": 47,
