@@ -128,19 +128,19 @@
     "url": "https://aviva-stats.netlify.app",
     "icon": "https://icons.duckduckgo.com/ip3/aviva-stats.netlify.app.ico",
     "slug": "aviva-stats",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.62%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 139,
-    "timeDay": 63,
-    "timeWeek": 129,
-    "timeMonth": 145,
+    "timeDay": 72,
+    "timeWeek": 125,
+    "timeMonth": 143,
     "timeYear": 153,
     "dailyMinutesDown": {
-      "2025-04-01": 0
+      "2025-04-01": 20
     }
   }
 ]
