@@ -11,10 +11,10 @@
     "uptimeMonth": "99.75%",
     "uptimeYear": "99.92%",
     "time": 1640,
-    "timeDay": 1338,
-    "timeWeek": 1522,
-    "timeMonth": 1572,
-    "timeYear": 1639,
+    "timeDay": 1923,
+    "timeWeek": 1514,
+    "timeMonth": 1586,
+    "timeYear": 1641,
     "dailyMinutesDown": {
       "2025-04-10": 61,
       "2025-04-09": 28,
@@ -26,8 +26,7 @@
       "2024-10-14": 95,
       "2024-10-03": 28,
       "2024-08-26": 44,
-      "2024-04-29": 0,
-      "2024-04-28": 21
+      "2024-04-29": 0
     }
   },
   {
@@ -36,15 +35,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/leirederien.fr.ico",
     "slug": "l-eire-de-rien",
     "status": "up",
-    "uptime": "96.66%",
+    "uptime": "96.67%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.49%",
     "uptimeYear": "85.87%",
     "time": 1383,
-    "timeDay": 689,
-    "timeWeek": 867,
-    "timeMonth": 867,
+    "timeDay": 1276,
+    "timeWeek": 885,
+    "timeMonth": 885,
     "timeYear": 1286,
     "dailyMinutesDown": {
       "2025-04-17": 70,
@@ -119,8 +118,8 @@
     "uptimeYear": "99.99%",
     "time": 146,
     "timeDay": 36,
-    "timeWeek": 230,
-    "timeMonth": 154,
+    "timeWeek": 178,
+    "timeMonth": 153,
     "timeYear": 160,
     "dailyMinutesDown": {
       "2025-02-18": 27,
@@ -139,9 +138,9 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 143,
-    "timeDay": 514,
-    "timeWeek": 224,
-    "timeMonth": 168,
+    "timeDay": 37,
+    "timeWeek": 216,
+    "timeMonth": 167,
     "timeYear": 156,
     "dailyMinutesDown": {
       "2025-04-01": 20
