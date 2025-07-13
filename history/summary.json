@@ -132,10 +132,10 @@
     "url": "https://aviva-stats.netlify.app",
     "icon": "https://icons.duckduckgo.com/ip3/aviva-stats.netlify.app.ico",
     "slug": "aviva-stats",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "98.61%",
-    "uptimeWeek": "99.63%",
+    "uptimeDay": "98.60%",
+    "uptimeWeek": "99.62%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.99%",
     "time": 158,
@@ -144,6 +144,7 @@
     "timeMonth": 153,
     "timeYear": 174,
     "dailyMinutesDown": {
+      "2025-07-13": 0,
       "2025-07-12": 20,
       "2025-07-07": 18,
       "2025-04-01": 20
