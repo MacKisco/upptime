@@ -174,10 +174,10 @@
     "url": "https://tea-menu.netlify.app",
     "icon": "https://icons.duckduckgo.com/ip3/tea-menu.netlify.app.ico",
     "slug": "tea-menu",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 233,
@@ -185,7 +185,9 @@
     "timeWeek": 364,
     "timeMonth": 368,
     "timeYear": 245,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-05-10": 1
+    }
   },
   {
     "name": "Aviva-stats",
@@ -193,18 +195,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/aviva-stats.netlify.app.ico",
     "slug": "aviva-stats",
     "status": "down",
-    "uptime": "87.44%",
+    "uptime": "87.43%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "31.70%",
+    "uptimeYear": "31.63%",
     "time": 171,
     "timeDay": 12,
     "timeWeek": 111,
     "timeMonth": 175,
     "timeYear": 172,
     "dailyMinutesDown": {
-      "2026-05-10": 102,
+      "2026-05-10": 451,
       "2026-05-09": 1440,
       "2026-05-08": 1440,
       "2026-05-07": 1440,
