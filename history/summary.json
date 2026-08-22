@@ -4,17 +4,17 @@
     "url": "https://lepetitatelierluthi.fr",
     "icon": "https://icons.duckduckgo.com/ip3/lepetitatelierluthi.fr.ico",
     "slug": "le-petit-atelier-luthi",
-    "status": "down",
+    "status": "up",
     "uptime": "99.12%",
-    "uptimeDay": "92.32%",
-    "uptimeWeek": "97.17%",
-    "uptimeMonth": "99.09%",
+    "uptimeDay": "90.65%",
+    "uptimeWeek": "96.93%",
+    "uptimeMonth": "99.03%",
     "uptimeYear": "95.66%",
-    "time": 1042,
-    "timeDay": 954,
-    "timeWeek": 953,
-    "timeMonth": 1054,
-    "timeYear": 938,
+    "time": 1040,
+    "timeDay": 970,
+    "timeWeek": 958,
+    "timeMonth": 1055,
+    "timeYear": 939,
     "dailyMinutesDown": {
       "2025-09-05": 326,
       "2025-09-04": 1440,
@@ -95,7 +95,7 @@
       "2026-08-18": 24,
       "2026-08-19": 25,
       "2026-08-21": 20,
-      "2026-08-22": 90
+      "2026-08-22": 114
     }
   },
   {
@@ -218,7 +218,7 @@
     "timeMonth": 57,
     "timeYear": 130,
     "dailyMinutesDown": {
-      "2026-08-22": 915,
+      "2026-08-22": 939,
       "2026-08-21": 1440,
       "2026-08-20": 1440,
       "2026-08-19": 1440,
