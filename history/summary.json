@@ -4,16 +4,16 @@
     "url": "https://lepetitatelierluthi.fr",
     "icon": "https://icons.duckduckgo.com/ip3/lepetitatelierluthi.fr.ico",
     "slug": "le-petit-atelier-luthi",
-    "status": "up",
+    "status": "down",
     "uptime": "99.10%",
-    "uptimeDay": "76.96%",
-    "uptimeWeek": "95.44%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "95.43%",
     "uptimeMonth": "98.31%",
     "uptimeYear": "99.02%",
-    "time": 1019,
-    "timeDay": 1062,
-    "timeWeek": 739,
-    "timeMonth": 1093,
+    "time": 1018,
+    "timeDay": 662,
+    "timeWeek": 721,
+    "timeMonth": 1077,
     "timeYear": 952,
     "dailyMinutesDown": {
       "2025-11-05": 73,
@@ -94,7 +94,8 @@
       "2026-09-12": 173,
       "2026-10-16": 278,
       "2026-10-25": 111,
-      "2026-10-27": 349
+      "2026-10-27": 349,
+      "2026-10-28": 0
     }
   },
   {
@@ -112,7 +113,7 @@
     "timeDay": 245,
     "timeWeek": 203,
     "timeMonth": 221,
-    "timeYear": 210,
+    "timeYear": 208,
     "dailyMinutesDown": {
       "2025-12-26": 566,
       "2025-12-25": 1440,
@@ -202,7 +203,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/aviva-stats.netlify.app.ico",
     "slug": "aviva-stats",
     "status": "down",
-    "uptime": "80.51%",
+    "uptime": "80.50%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -213,7 +214,7 @@
     "timeMonth": 85,
     "timeYear": 121,
     "dailyMinutesDown": {
-      "2026-10-28": 163,
+      "2026-10-28": 524,
       "2026-10-27": 1440,
       "2026-10-26": 1440,
       "2026-10-25": 1440,
