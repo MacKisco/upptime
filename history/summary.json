@@ -4,16 +4,16 @@
     "url": "https://lepetitatelierluthi.fr",
     "icon": "https://icons.duckduckgo.com/ip3/lepetitatelierluthi.fr.ico",
     "slug": "le-petit-atelier-luthi",
-    "status": "up",
+    "status": "down",
     "uptime": "99.09%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "91.41%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "92.51%",
     "uptimeMonth": "97.39%",
     "uptimeYear": "98.94%",
-    "time": 1013,
-    "timeDay": 565,
-    "timeWeek": 726,
-    "timeMonth": 1024,
+    "time": 1011,
+    "timeDay": 0,
+    "timeWeek": 733,
+    "timeMonth": 1013,
     "timeYear": 951,
     "dailyMinutesDown": {
       "2025-11-05": 73,
@@ -95,7 +95,8 @@
       "2026-10-16": 278,
       "2026-10-25": 111,
       "2026-10-27": 349,
-      "2026-10-28": 406
+      "2026-10-28": 406,
+      "2026-11-02": 0
     }
   },
   {
@@ -108,11 +109,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "84.86%",
-    "time": 407,
-    "timeDay": 236,
-    "timeWeek": 201,
-    "timeMonth": 226,
+    "uptimeYear": "85.12%",
+    "time": 406,
+    "timeDay": 261,
+    "timeWeek": 225,
+    "timeMonth": 229,
     "timeYear": 207,
     "dailyMinutesDown": {
       "2025-12-26": 566,
@@ -168,8 +169,7 @@
       "2025-11-06": 1440,
       "2025-11-05": 1440,
       "2025-11-04": 1440,
-      "2025-11-03": 1440,
-      "2025-11-02": 1440
+      "2025-11-03": 1440
     }
   },
   {
@@ -183,11 +183,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 308,
-    "timeDay": 488,
-    "timeWeek": 634,
-    "timeMonth": 564,
-    "timeYear": 342,
+    "time": 309,
+    "timeDay": 568,
+    "timeWeek": 625,
+    "timeMonth": 558,
+    "timeYear": 343,
     "dailyMinutesDown": {
       "2026-05-10": 103,
       "2026-05-19": 79
@@ -199,18 +199,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/aviva-stats.netlify.app.ico",
     "slug": "aviva-stats",
     "status": "down",
-    "uptime": "80.36%",
+    "uptime": "80.33%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 130,
-    "timeDay": 82,
-    "timeWeek": 60,
-    "timeMonth": 84,
+    "timeDay": 36,
+    "timeWeek": 64,
+    "timeMonth": 82,
     "timeYear": 121,
     "dailyMinutesDown": {
-      "2026-11-01": 167,
+      "2026-11-02": 123,
+      "2026-11-01": 1440,
       "2026-10-31": 1440,
       "2026-10-30": 1440,
       "2026-10-29": 1440,
@@ -573,8 +574,7 @@
       "2025-11-06": 1440,
       "2025-11-05": 1440,
       "2025-11-04": 1440,
-      "2025-11-03": 1440,
-      "2025-11-02": 1440
+      "2025-11-03": 1440
     }
   }
 ]
