@@ -7,14 +7,14 @@
     "status": "up",
     "uptime": "99.09%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "93.40%",
+    "uptimeWeek": "95.82%",
     "uptimeMonth": "97.35%",
     "uptimeYear": "98.94%",
     "time": 1009,
-    "timeDay": 622,
-    "timeWeek": 790,
-    "timeMonth": 1002,
-    "timeYear": 950,
+    "timeDay": 891,
+    "timeWeek": 770,
+    "timeMonth": 1015,
+    "timeYear": 951,
     "dailyMinutesDown": {
       "2025-11-05": 73,
       "2025-11-10": 49,
@@ -105,15 +105,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/leirederien.fr.ico",
     "slug": "l-eire-de-rien",
     "status": "up",
-    "uptime": "94.79%",
+    "uptime": "94.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "85.42%",
-    "time": 405,
-    "timeDay": 228,
-    "timeWeek": 221,
-    "timeMonth": 234,
+    "uptimeYear": "85.69%",
+    "time": 404,
+    "timeDay": 271,
+    "timeWeek": 231,
+    "timeMonth": 238,
     "timeYear": 207,
     "dailyMinutesDown": {
       "2025-12-26": 566,
@@ -167,8 +167,7 @@
       "2025-11-08": 1440,
       "2025-11-07": 1440,
       "2025-11-06": 1440,
-      "2025-11-05": 1440,
-      "2025-11-04": 1440
+      "2025-11-05": 1440
     }
   },
   {
@@ -182,11 +181,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 310,
-    "timeDay": 555,
-    "timeWeek": 611,
-    "timeMonth": 566,
-    "timeYear": 344,
+    "time": 311,
+    "timeDay": 545,
+    "timeWeek": 602,
+    "timeMonth": 563,
+    "timeYear": 345,
     "dailyMinutesDown": {
       "2026-05-10": 103,
       "2026-05-19": 79
@@ -198,18 +197,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/aviva-stats.netlify.app.ico",
     "slug": "aviva-stats",
     "status": "down",
-    "uptime": "80.29%",
+    "uptime": "80.25%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 130,
-    "timeDay": 26,
-    "timeWeek": 61,
+    "timeDay": 66,
+    "timeWeek": 74,
     "timeMonth": 81,
     "timeYear": 120,
     "dailyMinutesDown": {
-      "2026-11-03": 252,
+      "2026-11-04": 211,
+      "2026-11-03": 1440,
       "2026-11-02": 1440,
       "2026-11-01": 1440,
       "2026-10-31": 1440,
@@ -572,8 +572,7 @@
       "2025-11-08": 1440,
       "2025-11-07": 1440,
       "2025-11-06": 1440,
-      "2025-11-05": 1440,
-      "2025-11-04": 1440
+      "2025-11-05": 1440
     }
   }
 ]
