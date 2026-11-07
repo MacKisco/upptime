@@ -10,11 +10,11 @@
     "uptimeWeek": "99.84%",
     "uptimeMonth": "97.35%",
     "uptimeYear": "98.95%",
-    "time": 1008,
-    "timeDay": 1165,
-    "timeWeek": 868,
-    "timeMonth": 1036,
-    "timeYear": 953,
+    "time": 1007,
+    "timeDay": 1262,
+    "timeWeek": 956,
+    "timeMonth": 1052,
+    "timeYear": 954,
     "dailyMinutesDown": {
       "2025-11-10": 49,
       "2025-11-26": 20,
@@ -108,11 +108,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "86.24%",
-    "time": 402,
-    "timeDay": 294,
-    "timeWeek": 250,
-    "timeMonth": 243,
+    "uptimeYear": "86.51%",
+    "time": 400,
+    "timeDay": 299,
+    "timeWeek": 274,
+    "timeMonth": 246,
     "timeYear": 208,
     "dailyMinutesDown": {
       "2025-12-26": 566,
@@ -163,8 +163,7 @@
       "2025-11-11": 1440,
       "2025-11-10": 1440,
       "2025-11-09": 1440,
-      "2025-11-08": 1440,
-      "2025-11-07": 1440
+      "2025-11-08": 1440
     }
   },
   {
@@ -178,11 +177,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 313,
-    "timeDay": 617,
-    "timeWeek": 564,
-    "timeMonth": 559,
-    "timeYear": 347,
+    "time": 314,
+    "timeDay": 600,
+    "timeWeek": 557,
+    "timeMonth": 561,
+    "timeYear": 348,
     "dailyMinutesDown": {
       "2026-05-10": 103,
       "2026-05-19": 79
@@ -194,18 +193,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/aviva-stats.netlify.app.ico",
     "slug": "aviva-stats",
     "status": "down",
-    "uptime": "80.18%",
+    "uptime": "80.14%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 129,
-    "timeDay": 29,
-    "timeWeek": 55,
-    "timeMonth": 77,
+    "timeDay": 104,
+    "timeWeek": 65,
+    "timeMonth": 79,
     "timeYear": 120,
     "dailyMinutesDown": {
-      "2026-11-06": 231,
+      "2026-11-07": 204,
+      "2026-11-06": 1440,
       "2026-11-05": 1440,
       "2026-11-04": 1440,
       "2026-11-03": 1440,
@@ -568,8 +568,7 @@
       "2025-11-11": 1440,
       "2025-11-10": 1440,
       "2025-11-09": 1440,
-      "2025-11-08": 1440,
-      "2025-11-07": 1440
+      "2025-11-08": 1440
     }
   }
 ]
