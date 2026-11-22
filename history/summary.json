@@ -11,9 +11,9 @@
     "uptimeMonth": "97.99%",
     "uptimeYear": "98.96%",
     "time": 1002,
-    "timeDay": 1495,
-    "timeWeek": 1377,
-    "timeMonth": 997,
+    "timeDay": 1318,
+    "timeWeek": 1393,
+    "timeMonth": 1008,
     "timeYear": 965,
     "dailyMinutesDown": {
       "2025-11-26": 20,
@@ -107,12 +107,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "90.35%",
+    "uptimeYear": "90.62%",
     "time": 377,
-    "timeDay": 117,
-    "timeWeek": 185,
-    "timeMonth": 222,
-    "timeYear": 208,
+    "timeDay": 375,
+    "timeWeek": 242,
+    "timeMonth": 232,
+    "timeYear": 209,
     "dailyMinutesDown": {
       "2025-12-26": 566,
       "2025-12-25": 1440,
@@ -147,8 +147,7 @@
       "2025-11-26": 1440,
       "2025-11-25": 1440,
       "2025-11-24": 1440,
-      "2025-11-23": 1440,
-      "2025-11-22": 1440
+      "2025-11-23": 1440
     }
   },
   {
@@ -162,11 +161,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 316,
-    "timeDay": 421,
-    "timeWeek": 344,
-    "timeMonth": 513,
-    "timeYear": 358,
+    "time": 317,
+    "timeDay": 363,
+    "timeWeek": 374,
+    "timeMonth": 502,
+    "timeYear": 359,
     "dailyMinutesDown": {
       "2026-05-10": 103,
       "2026-05-19": 79
@@ -178,18 +177,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/aviva-stats.netlify.app.ico",
     "slug": "aviva-stats",
     "status": "down",
-    "uptime": "79.62%",
+    "uptime": "79.59%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 127,
-    "timeDay": 11,
-    "timeWeek": 97,
-    "timeMonth": 84,
+    "timeDay": 25,
+    "timeWeek": 98,
+    "timeMonth": 82,
     "timeYear": 104,
     "dailyMinutesDown": {
-      "2026-11-21": 267,
+      "2026-11-22": 221,
+      "2026-11-21": 1440,
       "2026-11-20": 1440,
       "2026-11-19": 1440,
       "2026-11-18": 1440,
@@ -552,8 +552,7 @@
       "2025-11-26": 1440,
       "2025-11-25": 1440,
       "2025-11-24": 1440,
-      "2025-11-23": 1440,
-      "2025-11-22": 1440
+      "2025-11-23": 1440
     }
   }
 ]
