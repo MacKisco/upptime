@@ -11,10 +11,10 @@
     "uptimeMonth": "97.99%",
     "uptimeYear": "98.96%",
     "time": 1000,
-    "timeDay": 1053,
-    "timeWeek": 1321,
-    "timeMonth": 1026,
-    "timeYear": 962,
+    "timeDay": 1148,
+    "timeWeek": 1273,
+    "timeMonth": 1042,
+    "timeYear": 960,
     "dailyMinutesDown": {
       "2025-11-26": 20,
       "2025-12-09": 24,
@@ -103,14 +103,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/leirederien.fr.ico",
     "slug": "l-eire-de-rien",
     "status": "up",
-    "uptime": "94.84%",
+    "uptime": "94.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "91.21%",
-    "time": 375,
-    "timeDay": 296,
-    "timeWeek": 271,
+    "uptimeYear": "91.47%",
+    "time": 373,
+    "timeDay": 227,
+    "timeWeek": 266,
     "timeMonth": 240,
     "timeYear": 210,
     "dailyMinutesDown": {
@@ -144,8 +144,7 @@
       "2025-11-29": 1440,
       "2025-11-28": 1440,
       "2025-11-27": 1440,
-      "2025-11-26": 1440,
-      "2025-11-25": 1440
+      "2025-11-26": 1440
     }
   },
   {
@@ -159,11 +158,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 317,
-    "timeDay": 198,
-    "timeWeek": 345,
-    "timeMonth": 487,
-    "timeYear": 360,
+    "time": 318,
+    "timeDay": 301,
+    "timeWeek": 347,
+    "timeMonth": 480,
+    "timeYear": 361,
     "dailyMinutesDown": {
       "2026-05-10": 103,
       "2026-05-19": 79
@@ -175,18 +174,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/aviva-stats.netlify.app.ico",
     "slug": "aviva-stats",
     "status": "down",
-    "uptime": "79.51%",
+    "uptime": "79.48%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 126,
-    "timeDay": 46,
-    "timeWeek": 85,
+    "timeDay": 73,
+    "timeWeek": 64,
     "timeMonth": 77,
     "timeYear": 103,
     "dailyMinutesDown": {
-      "2026-11-24": 435,
+      "2026-11-25": 348,
+      "2026-11-24": 1440,
       "2026-11-23": 1440,
       "2026-11-22": 1440,
       "2026-11-21": 1440,
@@ -549,8 +549,7 @@
       "2025-11-29": 1440,
       "2025-11-28": 1440,
       "2025-11-27": 1440,
-      "2025-11-26": 1440,
-      "2025-11-25": 1440
+      "2025-11-26": 1440
     }
   }
 ]
